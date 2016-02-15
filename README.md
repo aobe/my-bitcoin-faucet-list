@@ -3,5 +3,5 @@
 ## Address 
 1Jj4RTTFxKMpuKFVaJKRmETycDdxGLys5r
 ## Faucet Websites List
-1. [earnsatoshi](http://earnsatoshi.co)
+1. [earnsatoshi](http://earnsatoshi.co/?ref=1Jj4RTTFxKMpuKFVaJKRmETycDdxGLys5r)
 2. [Satoshididu](http://www.satoshididu.com/?r=1Jj4RTTFxKMpuKFVaJKRmETycDdxGLys5r)
